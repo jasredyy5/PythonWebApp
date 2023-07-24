@@ -4,5 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello, this is a sample Web App developed in Pyhton and Flask"
+
+    return "Hello, this is a sample Web App devloped in Pyhton and Flask to showcase CI CD workflow"
+
 
